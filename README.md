@@ -1,26 +1,36 @@
-# SkyTrackR – Team Introduction  
+# 🚀 SkyTrackr – Team Introduction  
 
-Welcome to the **SkyTrackR Project** repository! 
-This project is developed as part of **PRJ666 – Capstone Course**, where our team of five members collaborates to design and implement a modern project management solution.  
+Welcome to the **SkyTrackr Project** repository!  
+This project is developed as part of **PRJ666 – Capstone Course**, where our team of five members collaborates to design and implement a **modern project management solution**.  
 
-## Meet the Team  
+---
 
-| Member | Role |
-|--------|------|
-| **Arky Lun** | Business Analyst |
-| **Khanh Anh Kiet Nguyen** | Project Manager |
-| **Tommy Chabiras** | Backend Developer |
-| **Truong Ma** | UI/UX Designer |
-| **Seung Hoon Han** | Frontend Developer  |
+## 👥 Meet the Team  
 
-## Team Values  
-- **Collaboration**: We believe in open communication and shared accountability.  
-- **Quality**: Every deliverable must meet academic and professional standards.  
-- **Innovation**: We strive to create a solution that is both functional and user-centered.  
-- **Commitment**: Each member is dedicated to the success of the project from start to finish.  
+| Member | Role | Responsibilities |
+|--------|------|------------------|
+| **Arky Lun** | 🎯 Business Analyst | Requirement gathering, documentation, client communication |
+| **Khanh Anh Kiet Nguyen** | 📌 Project Manager | Task coordination, timeline management, risk control |
+| **Tommy Chabiras** | ⚙️ Backend Developer | API design, database management, server deployment |
+| **Truong Ma** | 🎨 UI/UX Designer | Wireframes, user flows, interface design |
+| **Seung Hoon Han** | 💻 Frontend Developer | React/Next.js development, component integration |
 
-## How We Work  
-- Weekly sprint planning and stand-up meetings  
-- GitHub for version control and issue tracking  
-- Slack/Discord for team communication  
-- Agile methodology with continuous feedback and iteration  
+---
+
+## 🌟 Team Values  
+
+- 🤝 **Collaboration**: Open communication & shared accountability  
+- ✅ **Quality**: Deliverables meet academic & professional standards  
+- 💡 **Innovation**: Solutions are functional and user-centered  
+- 🔥 **Commitment**: Every member is dedicated from start to finish  
+
+---
+
+## ⚡ How We Work  
+
+- 📅 Weekly sprint planning & stand-up meetings  
+- 🛠️ GitHub for version control & issue tracking  
+- 💬 Slack / Discord for team communication  
+- 🔄 Agile methodology with continuous feedback and iteration  
+
+--- 
