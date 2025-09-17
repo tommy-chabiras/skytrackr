@@ -1,4 +1,4 @@
-# SkyTrackr – Team Introduction  
+# SkyTrackR – Team Introduction  
 
 Welcome to the **SkyTrackr Project** repository! 
 This project is developed as part of **PRJ666 – Capstone Course**, where our team of five members collaborates to design and implement a modern project management solution.  
