@@ -30,7 +30,7 @@ This project is developed as part of **PRJ666 – Capstone Course**, where our t
 
 - 📅 Weekly sprint planning & stand-up meetings  
 - 🛠️ GitHub for version control & issue tracking  
-- 💬 Slack / Discord for team communication  
+- 💬 Discord / MS Teams for communication  
 - 🔄 Agile methodology with continuous feedback and iteration  
 
 --- 
