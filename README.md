@@ -7,11 +7,11 @@ This project is developed as part of **PRJ666 – Capstone Course**, where our t
 
 | Member | Role | Responsibilities |
 |--------|------|------------------|
-| **Arky Lun** | XX / XX | XX |
-| **Khanh Anh Kiet Nguyen** | XX | X |
-| **Tommy Chabiras** | XX | X |
-| **Seung Hoon Han** | XX | X |
-| **Seung Hoon Han** | XX  | X |
+| **Arky Lun** | Business Analyst | XX |
+| **Khanh Anh Kiet Nguyen** | Project Manager | X |
+| **Tommy Chabiras** | Backend Developer | X |
+| **Truong Ma** | UI/UX Designer | X |
+| **Seung Hoon Han** | Frontend Developer  | X |
 
 ## Team Values  
 - **Collaboration**: We believe in open communication and shared accountability.  
